@@ -13,6 +13,7 @@ This is my professional programming [resume]. It is a work in progress as I cont
 <ul>
 <li>Fontawesome5 Icons</li>
 </ul>
+Live website link: https://joyd3v.github.io/My-Resume/
 
 
 ## ASSIGNMENT TWO
